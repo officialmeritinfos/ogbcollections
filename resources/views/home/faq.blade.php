@@ -1,18 +1,16 @@
 @extends('home.base')
 @section('content')
-    <!-- Start Page-title Area -->
-    <div class="page-title-area bg-black">
-        <div class="container">
-            <div class="page-title-content">
-                <h2>{{$pageName}}</h2>
-                <ul>
-                    <li><a href="{{url('/')}}">Home</a></li>
-                    <li>{{$pageName}}</li>
-                </ul>
-            </div>
+    <!-- Page Title -->
+    <section class="page-title" style="background-image:url({{asset('home/images/background/5.jpg')}})">
+        <div class="auto-container">
+            <h2>{{$pageName}}</h2>
+            <ul class="bread-crumb clearfix">
+                <li><a href="{{url('/')}}">Home</a></li>
+                <li>{{$pageName}}</li>
+            </ul>
         </div>
-    </div>
-    <!-- End Page-title Area -->
+    </section>
+    <!-- End Page Title -->
 
 
     <!-- END SECTION TEAM -->
@@ -231,7 +229,7 @@
                             <div id="collapse-2-10" class="collapse" aria-labelledby="heading-2-10"
                                  data-parent="#accordion-2">
                                 <div class="card-body">
-                                    <p>You can make as many deposit as you want on any of our investment plans except theHERCULES ARBITRAGE PLAN where you can only invest two times. And you can only withdraw once in the HERCULES ARBITRAGE PLAN.</p>
+                                    <p>You can make as many deposit as you want on any of our investment plans except the Silver Plan where you can only invest two times. And you can only withdraw once in the Silver Plan.</p>
                                 </div>
                             </div>
                         </div>

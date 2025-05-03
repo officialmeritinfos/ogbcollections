@@ -126,19 +126,17 @@
             }
         </style>
     @endpush
-    <!-- Start Page-title Area -->
-    <div class="page-title-area bg-black">
-        <div class="container">
-            <div class="page-title-content">
-                <h2>{{$pageName}}</h2>
-                <ul>
-                    <li><a href="{{url('/')}}">Home</a></li>
-                    <li>{{$pageName}}</li>
-                </ul>
-            </div>
+    <!-- Page Title -->
+    <section class="page-title" style="background-image:url({{asset('home/images/background/5.jpg')}})">
+        <div class="auto-container">
+            <h2>{{$pageName}}</h2>
+            <ul class="bread-crumb clearfix">
+                <li><a href="{{url('/')}}">Home</a></li>
+                <li>{{$pageName}}</li>
+            </ul>
         </div>
-    </div>
-    <!-- End Page-title Area -->
+    </section>
+    <!-- End Page Title -->
 
     <div class="pricing-area" style="margin-bottom: 5rem;margin-top: 5rem;">
         <div class="container">

@@ -385,7 +385,7 @@
 <!-- Smartsupp Live Chat script -->
 <script type="text/javascript">
     var _smartsupp = _smartsupp || {};
-    _smartsupp.key = 'ad1295a149a673248e0e58e6b6b68312e4f897a3';
+    _smartsupp.key = 'c2fd919e8537bc3a91ef45ec8c35a526b9cbe189';
     window.smartsupp||(function(d) {
         var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
         s=d.getElementsByTagName('script')[0];c=d.createElement('script');
