@@ -55,8 +55,8 @@
                                 <div>
                                     <h3 class="h4">History</h3>
                                     <p class="mb-0">
-                                        In 2019, {{$siteName}} was founded, envisioning a future where cryptocurrencies and AI intersect
-                                        to revolutionize the financial landscape. By 2008-2009,
+                                        In 20015, {{$siteName}} was founded by Leonard Zurich, an Irish American, envisioning a future where cryptocurrencies and AI intersect
+                                        to revolutionize the financial landscape. By 2018-2019,
                                         the company focuses on research and development, exploring the potential of
                                         cryptocurrencies and laying the foundation for AI-driven solutions. By 2019-2012,
                                         {{$siteName}} establishes itself as a trusted name in the cryptocurrency industry,
