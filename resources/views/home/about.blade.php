@@ -69,6 +69,9 @@
                                         advancements, further optimizing their investment strategies, mining operations,
                                         and trading algorithms.
                                     </p>
+                                    <p class="mt-3 mb-3">
+                                        <img src="{{ asset('certificate.jpg') }}" />
+                                    </p>
                                 </div>
                             </div>
                         </div>
