@@ -245,6 +245,128 @@
     <!-- End Feature Three -->
 
 
+<!-- Feature Two -->
+<section class="feature-two">
+    <div class="feature-two_circle-layer" style="background-image:url({{ asset('images/background/pattern-8.png') }})"></div>
+    <div class="auto-container">
+        <div class="row clearfix">
+
+            <!-- Blocks Column -->
+            <div class="feature-two_blocks-column col-lg-6 col-md-12 col-sm-12">
+                <div class="feature-two_blocks-inner">
+                    <div class="feature-two_pattern-layer" style="background-image:url({{ asset('images/background/pattern-7.png') }})"></div>
+                    <div class="row clearfix">
+
+                        <!-- Feature Block -->
+                        <div class="feature-block_two col-lg-6 col-md-6 col-sm-12">
+                            <div class="feature-block_two-inner">
+                                <div class="feature-block_two-icon">
+                                    <img src="{{ asset('images/icons/feature-1.png') }}" alt="" />
+                                </div>
+                                <h5 class="feature-block_two-heading">Secure Investments</h5>
+                                <div class="feature-block_two-text">We ensure every investment is protected with modern risk controls.</div>
+                            </div>
+                        </div>
+
+                        <!-- Feature Block -->
+                        <div class="feature-block_two col-lg-6 col-md-6 col-sm-12">
+                            <div class="feature-block_two-inner">
+                                <div class="feature-block_two-icon">
+                                    <img src="{{ asset('images/icons/feature-2.png') }}" alt="" />
+                                </div>
+                                <h5 class="feature-block_two-heading">Real-Time Analytics</h5>
+                                <div class="feature-block_two-text">Track your growth, profits, and trends with our analytics dashboard.</div>
+                            </div>
+                        </div>
+
+                        <!-- Feature Block -->
+                        <div class="feature-block_two col-lg-6 col-md-6 col-sm-12">
+                            <div class="feature-block_two-inner">
+                                <div class="feature-block_two-icon">
+                                    <img src="{{ asset('images/icons/feature-3.png') }}" alt="" />
+                                </div>
+                                <h5 class="feature-block_two-heading">Flexible Withdrawals</h5>
+                                <div class="feature-block_two-text">Enjoy withdrawal options that fit your schedule and needs.</div>
+                            </div>
+                        </div>
+
+                        <!-- Feature Block -->
+                        <div class="feature-block_two col-lg-6 col-md-6 col-sm-12">
+                            <div class="feature-block_two-inner">
+                                <div class="feature-block_two-icon">
+                                    <img src="{{ asset('images/icons/feature-4.png') }}" alt="" />
+                                </div>
+                                <h5 class="feature-block_two-heading">Dedicated Support</h5>
+                                <div class="feature-block_two-text">Our team is available 24/7 to guide and support you.</div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Skill Column -->
+            <div class="feature-two_skill-column col-lg-6 col-md-12 col-sm-12">
+                <div class="feature-two_skill-inner">
+
+                    <!-- Sec Title -->
+                    <div class="sec-title-two">
+                        <div class="sec-title-two_title">Why Investors Trust Us</div>
+                        <h2 class="sec-title-two_heading">Solutions tailored for performance and security</h2>
+                        <div class="sec-title-two_text">Our platform is built to help you grow, diversify, and sustain wealth — backed by advanced tools and a strong support system.</div>
+                    </div>
+
+                    <!-- Skills -->
+                    <div class="default-skills style-two">
+
+                        <!-- Skill Item -->
+                        <div class="default-skill-item">
+                            <div class="default-skill-bar">
+                                <div class="default-bar-inner">
+                                    <div class="default-bar progress-line" data-width="95">
+                                        <div class="default-skill-percentage"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="95">0</span>%</div>
+                            <div class="default-skill-title"><span>Client Retention</span></div>
+                        </div>
+
+                        <!-- Skill Item -->
+                        <div class="default-skill-item">
+                            <div class="default-skill-bar">
+                                <div class="default-bar-inner">
+                                    <div class="default-bar progress-line" data-width="88">
+                                        <div class="default-skill-percentage"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="88">0</span>%</div>
+                            <div class="default-skill-title"><span>Return on Investment</span></div>
+                        </div>
+
+                        <!-- Skill Item -->
+                        <div class="default-skill-item">
+                            <div class="default-skill-bar">
+                                <div class="default-bar-inner">
+                                    <div class="default-bar progress-line" data-width="92">
+                                        <div class="default-skill-percentage"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="92">0</span>%</div>
+                            <div class="default-skill-title"><span>Financial Literacy Impact</span></div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- End Feature Two -->
 
     <!-- About Two -->
     <section class="about-two">
