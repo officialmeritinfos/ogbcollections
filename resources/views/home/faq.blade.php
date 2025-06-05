@@ -165,23 +165,7 @@
 
                     </div>
 
-                    <div id="accordion-2" class="accordion accordion-faq">
-                        <!-- Accordion card 1 -->
-                        <div class="card">
-                            <div class="card-header py-4" id="heading-1-7" data-bs-toggle="collapse" role="button"
-                                 data-bs-target="#collapse-2-7" aria-expanded="false" aria-controls="collapse-2-7">
-                                <h6 class="mb-0"><span class="ti-receipt mr-3"></span> Can I have more than one account?</h6>
-                            </div>
-                            <div id="collapse-2-7" class="collapse" aria-labelledby="heading-2-7"
-                                 data-parent="#accordion-2">
-                                <div class="card-body">
-                                    <p>No you cannot have more than one account only investors on the vip plan are allowed to do so</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Accordion card 3 -->
 
-                    </div>
 
                     <div id="accordion-2" class="accordion accordion-faq">
                         <!-- Accordion card 1 -->
