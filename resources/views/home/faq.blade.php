@@ -193,7 +193,8 @@
                             <div id="collapse-2-8" class="collapse" aria-labelledby="heading-2-8"
                                  data-parent="#accordion-2">
                                 <div class="card-body">
-                                    <p>Yes we are officially and properly registered with the United State . our company registration number is USFDAISO34847676   and registered with the name {{$siteName}}</p>
+                                    <p>Yes we are officially and properly registered with the United State .
+                                        Our company is registered with the name {{$siteName}}</p>
                                 </div>
                             </div>
                         </div>

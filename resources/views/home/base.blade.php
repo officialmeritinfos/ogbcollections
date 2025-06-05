@@ -533,7 +533,7 @@
 <!-- Smartsupp Live Chat script -->
 <script type="text/javascript">
     var _smartsupp = _smartsupp || {};
-    _smartsupp.key = 'c2fd919e8537bc3a91ef45ec8c35a526b9cbe189';
+    _smartsupp.key = '6536df20f34c2e372f282a6a51a1fa3ff1947008';
     window.smartsupp||(function(d) {
         var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
         s=d.getElementsByTagName('script')[0];c=d.createElement('script');
