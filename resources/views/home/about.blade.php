@@ -70,7 +70,7 @@
                                         and trading algorithms.
                                     </p>
                                     <p class="mt-3 mb-3">
-                                        <img src="{{ asset('') }}" />
+                                        <img src="{{ asset('certificate.jpg') }}" />
                                     </p>
                                 </div>
                             </div>
