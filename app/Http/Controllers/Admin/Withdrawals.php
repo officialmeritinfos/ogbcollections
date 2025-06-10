@@ -22,7 +22,7 @@ class Withdrawals extends Controller
         $dataView = [
             'web'=>$web,
             'user'=>$user,
-            'withdrawals'=>Withdrawal::get(),
+            'withdrawals'=>Withdrawal::where('status',2)->get(),
             'pageName'=>'Withdrawal Lists',
             'siteName'=>$web->name
         ];
